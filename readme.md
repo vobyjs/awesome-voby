@@ -23,4 +23,10 @@ The following first-party resources are provided. These are all official resourc
 
 The following third-party resources are provided. If you created something on top of Voby please send a PR for adding it to this list.
 
+### Tools
+
 - _Empty_
+
+### Showcase
+
+- [`voby-clock`](https://github.com/high1/voby-clock): SVG clock implemented in Voby.
