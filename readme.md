@@ -13,10 +13,8 @@ The core of the ecosystem is made up of two libraries, `oby`, which implements t
 
 The following first-party resources are provided. These are all official resources that you should use whenever possible.
 
-- [`voby-app-cli`](https://github.com/vobyjs/voby-app-cli): The official CLI for starting a new Voby project quickly.
 - [`voby-esbuild`](https://github.com/vobyjs/voby-esbuild): The official Voby plugin for Esbuild.
 - [`voby-router`](https://github.com/vobyjs/voby-router): The official client-side router.
-- [`voby-testing-library`](https://github.com/vobyjs/voby-testing-library): The official wrapper over `testing-library`.
 - [`voby-vite`](https://github.com/vobyjs/voby-vite): The official Voby plugin for Vite.
 
 ## Third-Party
